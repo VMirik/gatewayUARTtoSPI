@@ -40,7 +40,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-#define BUFFER_SIZE 10
+#define BUFFER_SIZE 255
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
